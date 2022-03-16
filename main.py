@@ -103,4 +103,4 @@ class chatbot(discord.Client):
         
 if __name__ == "__main__":
     client = chatbot()
-    client.run("OTUzNjI3ODE3NzE3OTUyNTgz.YjHVHQ.Bt8mUawfNCfvGQBhCJ4ob8aQL6A")
+    client.run("토큰")

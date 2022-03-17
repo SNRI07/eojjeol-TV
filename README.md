@@ -1,10 +1,25 @@
 # 어쩔티비 디스코드 봇
+
 이 봇이 있는 디코방에서 어쩔티비라고 하면 이 봇이 답장을 해줄꺼에요
+
 # 봇초대
+
 https://discord.com/api/oauth2/authorize?client_id=953627817717952583&permissions=67584&scope=bot
+
 # 사용법
+
+```
+pip install -r .\requirements.txt
+```
+
+```
+python main.py
+```
+
 이 봇이 있는 디코방에 어쩔티비 라고 치면 됩니다
+
 # 어쩔티비 대신에 사용할수 있는것들
+
 저쩔티비\
 저쩔냉장고\
 저쩔공기청정기\

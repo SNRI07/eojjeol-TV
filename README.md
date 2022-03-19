@@ -8,6 +8,10 @@ https://discord.com/api/oauth2/authorize?client_id=953627817717952583&permission
 
 # 사용법
 
+이 봇이 있는 디코방에 어쩔티비 라고 치면 됩니다
+
+**개발자 전용**
+
 ```
 pip install -r .\requirements.txt
 ```
@@ -15,8 +19,6 @@ pip install -r .\requirements.txt
 ```
 python main.py
 ```
-
-이 봇이 있는 디코방에 어쩔티비 라고 치면 됩니다
 
 # 어쩔티비 대신에 사용할수 있는것들
 
